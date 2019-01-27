@@ -1,0 +1,24 @@
+img.banner {
+	width: 50%;
+	height: auto;
+}
+
+img.strip0 {
+	padding: 5px;
+}
+
+img.strip1 {
+	padding: 5px;
+}
+
+img.obsTrophiesImg {
+	width: 75%;
+	height: auto;
+	margin-top: 5px;
+}
+
+img.obsAoAImg {
+	width: 75%;
+	height: auto;
+	margin-top: 5px;
+}
